@@ -1,2 +1,2 @@
-# Selenium_Basic
-It will contains all my Selenium Basic Coding
+# GitFunctions
+It is used to under the basic concept in GitHub.
