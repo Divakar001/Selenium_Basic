@@ -1,2 +1,4 @@
 hai this is for Git repository
 adding the sentence of "hello world"
+system.setProperty("Webdriver.chrome.driver", "/path of chrome");
+Webdriver driver=new Chromedriver();
