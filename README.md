@@ -1,2 +1,2 @@
 # GitFunctions
-It is used to under the basic concept in GitHub.
+It is used to understand the basic concept in GitHub.
